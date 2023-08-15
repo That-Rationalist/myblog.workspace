@@ -1,0 +1,7 @@
+[submodule "MyHugoBlog/themes/hugo-theme-vno-hugo"]
+	path = MyHugoBlog/themes/hugo-theme-vno-hugo
+	url = https://github.com/xslingcn/Vno-Hugo.git
+[submodule "MyHugoBlog/public"]
+	path = MyHugoBlog/public
+	url = https://github.com/That-Rationalist/myblog.workspace.git
+	branch = main
