@@ -2,6 +2,7 @@
 layout: post
 tags: ["玄學", "迷信", "揭秘&解密"]
 title: "輪迴說的歷史考據與我的若干思考"
+url: /articles/on-reincarnation
 date: 2020-09-26T11:28:17+13:00
 math: false
 draft: false

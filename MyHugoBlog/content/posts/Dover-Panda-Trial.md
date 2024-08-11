@@ -10,6 +10,7 @@ tags:
     "創世論",
   ]
 title: "多弗爾熊貓案件始末"
+url: /articles/dover-panda-trial
 date: 2019-12-23T07:28:17+13:00
 math: false
 draft: false
@@ -45,5 +46,3 @@ draft: false
 - 整個鬧劇以不能夠再更加客觀的方式記錄了一些美國基督教的真實現狀，除了被告背後的委員會及其證人的指鹿為馬，在整個案件過程中，原告家長還收到多封死亡恐嚇信。這些行為都令人髮指，並讓我們重新思考一個問題：基督教究竟有沒有在道德上提升人，從全局來講究竟對人類社會是有益還是有害？如果基督教又重獲絕對政治權利，有多大可能我們會回到黑暗中世紀？
 
 ![News Press After Trial](/images/photos/News-Press-After-Trial.jpg)
-
-祝你心明眼亮。

@@ -2,6 +2,7 @@
 layout: post
 tags: ["基督教", "哲學"]
 title: "愛因斯坦信基督教的上帝嗎？（上篇）"
+url: /articles/does-einstein-believe-in-biblical-god
 date: 2021-05-24T07:28:17+13:00
 math: false
 draft: false
@@ -10,6 +11,14 @@ draft: false
 ![Albert Einstein](/images/photos/Albert-Einstain.png)
 
 不論是在現實生活中遇見的基督徒（不管是在中國內地，香港，還是新西蘭），抑或是在電視訪問中見到的基督徒，還是在網絡上見到的基督徒的文章、博客、論壇，等等，我都見到過愛因斯坦被基督徒拿出來舉證相信基督教的傑出科學家，在一些文章的段落或者是評論之中，我們還能夠經常看到對於他討論“上帝”的只言片語的引用。這背後的邏輯很容易理解，如果被公認為人類歷史上最聰明的、功勳卓絕的科學家都信基督教的話，那麼那些才智平庸的無神論者們還有什麼理由拒絕接受上帝呢？甚至於我還見過身邊的無神論朋友也相信這個說法，並且其中有些人曾經用愛因斯坦的案例來證明相信基督教是理性的。從基督徒的角度講，把愛因斯坦拉入自己的陣營，還有另外一個戰略意義。在基督教界與無神論界存在著一場曠日持久的論戰：科學與宗教究竟是否相互衝突？理性主義者與無神論者的立場，當然是認為兩者之間是有著巨大衝突的；基督徒們則站在對立的立場，而營造“愛因斯坦信基督教”這樣一個印象，將有助於基督徒為自己的觀點辯護。簡言之，愛因斯坦這個形象成為了輿論戰中的一個被消費的符號。
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ## 序幕：“上帝之書”
 
@@ -42,7 +51,19 @@ draft: false
 
 愛因斯坦在完成這封信後大概一年左右與世長辭，Gutkind 的後裔也便將這封信雪藏了起來（其動機是個值得討論的話題），直到 2008 年它再次現世，所以即便是像 Max Jammer 和 Walter Isaacson 這樣的研究愛因斯坦生平的傳記作者在此之前也未曾聽説過這封書信。這封信的內容固然清楚地表達了愛因斯坦對於猶太-基督教中的上帝的態度，但是，假設沒有這封信出現，我們就真的無法知道愛因斯坦的立場嗎？當然不是！這其實僅僅是拍賣行的炒作而已。
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ## 愛因斯坦到底信不信基督教的上帝？
+
+&nbsp;
+
+&nbsp;
 
 ### 前言
 
@@ -51,6 +72,10 @@ draft: false
 ![Einstain In America](/images/photos/Einstain-In-America.png)
 
 在 50 歲之後，一方面由於時過境遷，一方面他的內心也發生了微妙的變化，他開始清清楚楚，並且一再重複地講述他的世界觀到底為何。他生前在很多雜誌上發表過文章，討論他對於各種社會問題的看法，包括政治、教育、戰爭和心理健康等等，從這些文章都可以看得出他深切與真摯的人文關懷。不僅如此，愛因斯坦不僅不是一個故弄玄虛的人，甚至他其實還經常討論宗教問題，我們下面就來浮光掠影般地回顧一下他自己的文字。
+
+&nbsp;
+
+&nbsp;
 
 ### 對銀行家的回應
 
@@ -63,6 +88,10 @@ draft: false
 從這封信的內容可以看出愛因斯坦依然在否定一個人格化的神。同時他也給出了他心中的“上帝”的描述，這個部分我在後篇再另作討論。這封信的內容被收錄在下面這本書中。
 
 ![Einstain bio by W Isaacson](/images/photos/Einstain-bio-by-W-Isaacson.jpg)
+
+&nbsp;
+
+&nbsp;
 
 ### 發表《宗教與科學》
 
@@ -115,6 +144,10 @@ draft: false
 
 《The World as I See It》，1934 年以德文首次出版，次年由 A. Harris 翻譯成英文並由 The Bodley Head 出版社出版。
 
+&nbsp;
+
+&nbsp;
+
 ### 對基督徒小學生的回應
 
 1936 年，紐約的一個 Sunday School 的六年級女學生，在其老師的鼓勵下，致信給愛因斯坦，在信中她問他一個問題：科學家們是否祈禱？（Do scientists pray?）既然是 Sunday school，可想而知這對師生必然是基督徒。那麼愛因斯坦是如何回答的呢？
@@ -132,6 +165,10 @@ draft: false
 ![Albert Einstein, The Human Side cover](/images/photos/Albert-Einstein-The-Human-Side-cover.png)
 
 《Albert Einstein, The Human Side: Glimpses from His Archives》，由 Banesh Hoffmann 與 Helen Dukas 在 1972 年合作出版 。
+
+&nbsp;
+
+&nbsp;
 
 ### 與美國海軍少尉的書信
 
@@ -159,6 +196,10 @@ draft: false
 
 愛因斯坦在此信中又重申了他對於人格化的上帝的看法：幼稚（chuldlike），比較一下他之前的上帝之書，以及《紐約時報》上的文章，他的這個觀點是前後一致的。另外，從關於耶穌會牧師的討論中，也可以推斷得出，在愛因斯坦生前，他的世界觀就已經在被誤解和誤傳了。
 
+&nbsp;
+
+&nbsp;
+
 ### 對猶太教拉比的回應
 
 在 1947 年，一個來自紐約布魯克林區的猶太人 Murray W. Gross 致信給愛因斯坦，詢問他對於上帝和宗教的態度，Gross 當時是代表他的爺爺詢問這個問題，因為他的爺爺是一個猶太教拉比，同時也是一位研究《塔木德》（Talmud，是猶太教內重要性僅次於《塔納赫》的宗教文獻）的學者。同年 4 月 26 號，愛因斯坦以英文回信 Gross，其回復包含如下內容：
@@ -179,6 +220,10 @@ draft: false
 
 《Einstein and Religion: Physics and Theology》，Max Jammer 著，1995 年由 Princeton University Press 出版社出版。
 
+&nbsp;
+
+&nbsp;
+
 ### 自傳
 
 不僅如此，1949 年，在一份名為《The Saturday Review》的雜誌上（1949 年 11 月 26 號刊），愛因斯坦以《Notes for an Autobiography》為題，發表了一篇描述他的世界觀的文章，其中首先便解釋了他對於猶太-基督教的態度。其內容是：
@@ -190,6 +235,10 @@ draft: false
 其中明確表明了他不相信《聖經》中的多數內容。後來這篇文章與其他文章一起被收錄在《Autobiographical Notes》一書中。
 
 ![Autobiographical Notes](/images/photos/Autobiographical-Notes-cover.png)
+
+&nbsp;
+
+&nbsp;
 
 ### 對無神論者的回應
 

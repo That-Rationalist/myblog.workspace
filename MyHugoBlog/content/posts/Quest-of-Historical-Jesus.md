@@ -2,6 +2,7 @@
 layout: post
 tags: ["基督教", "基督教歷史", "哲學", "耶穌歷史性研究"]
 title: "簡述耶穌歷史性研究的歷史"
+url: /articles/quest-of-historical-jesus
 date: 2022-12-20T22:00:40+13:00
 math: false
 draft: false

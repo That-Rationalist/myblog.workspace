@@ -2,6 +2,7 @@
 layout: post
 tags: ["哲學", "知識論", "古希臘"]
 title: "人類對於知識的哲學研究的起源——從古希臘說起"
+url: /articles/ancient-greek-epistemology-origin
 date: 2021-02-23T21:24:40+13:00
 math: false
 draft: false

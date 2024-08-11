@@ -12,6 +12,7 @@ tags:
     "摩西",
   ]
 title: "弗洛伊德對亞伯拉罕諸教的看法及後來者"
+url: /articles/freud-on-monotheism
 date: 2023-02-04T20:32:40+13:00
 math: false
 draft: false

@@ -2,6 +2,7 @@
 layout: post
 tags: ["揭秘&解密", "偽科學"]
 title: "那個據說稱重了靈魂的科學家到底做了什麼？"
+url: /articles/duncan-macdougall-weighing-souls
 date: 2021-04-24T07:28:17+13:00
 math: false
 draft: false
@@ -98,5 +99,3 @@ MacDougall 的故事其實留下了一個開放式的結局，那些突然失去
 > ……One ounce of fact more or less will have more weight in demonstrating the truth of the reality of continued existences with the necessary basis of substance to rest upon, than all the hair-splitting theories of theologians and metaphysicians combined……
 
 > ……if verified, furnishes the substantial basis for persisting personality or a conscious ego surviving the act of bodily death, and in the element of certainty is worth more than the postulates of all the creeds and all the metaphysical arguments combined.
-
-祝你心明眼亮。

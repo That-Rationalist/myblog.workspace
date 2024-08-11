@@ -2,6 +2,7 @@
 layout: post
 tags: ["基督教", "基督教歷史", "聖經歷史", "聖經版本問題"]
 title: "簡述《聖經》在基督教歷史中的演變"
+url: /articles/brief-history-of-bible
 date: 2022-12-24T12:05:55+13:00
 math: false
 draft: false
