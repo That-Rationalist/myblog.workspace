@@ -39,7 +39,7 @@ paginatePath = "page"
 author = "北公爵"
 subtitle = "不 問 鬼 神 問 蒼 生"
 description = ""
-welcomeMessage = "未經省察的人生沒有價值。   ——蘇格拉底"
+welcomeMessage = "An unexamined life is not worth living   ——Socrates"
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 coverColor = "orange"
