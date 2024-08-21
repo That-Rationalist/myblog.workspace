@@ -313,6 +313,28 @@ the scripture), “I am thirsty.”
 
 在这一段里，游斯丁指出十字这个形状出现在许多人类生产活动中使用的工具上，比如船帆的桅杆，耕地用的犁耙，挖土用的铁锹等等，甚至于人的身体本身也是一个十字的形状，这个形状是如此普遍如此无处不在，以至于没有它的话，宇宙万物将无法运转，所以，既然耶稣死在十字形十字架上，那么这证明了耶稣具有至尊的力量与绝对的权威。当然，由于这本书是写给罗马皇帝和官员的，所以他也顺便指出异教徒崇拜的物体里也存在十字形状，企图由此论证他们其实也是认可十字架代表的真理的。可以设想，游斯丁写这段话时，必然需要去幻想耶稣并不是死在一个T形十字架上。
 
+下面再来看一段特土良作品中的案例，他在《致诸民族书》（To the Nations）第1卷第12章中，有这样一段内容。为了节省读者的宝贵时间，我只节选一段，但是我先概述一下其上下文，在这一章，特土良回应当时的异教徒嘲讽基督徒崇拜十字架的问题，他的底层逻辑是要去证明其实十字架这个形状也普遍存在于异教崇拜的各种形象中。而在我要引用的这一段，他描述了异教徒制作神像（比如雅典娜神像）的过程，是先要打造一个十字形状的骨架，再基于这个框架去一层一层填补其他材料，直到最后让它看起来像一个人形，注意，这里他其实做了一个不成立的假设：那就是所有异教的神像的姿势都是双臂水平向两侧伸展的，在对制作过程做这样的描述之后，他写到：
+
+> The truth, however, after all is, that your religion is all cross, as I shall show. You are indeed unaware that your gods in their origin have proceeded from this hated cross. Now, every image, whether carved out of wood or stone, or molten in metal, or produced out of any other richer material, must needs have had plastic hands engaged in its formation. Well, then, this modeller, before he did anything else, hit upon the form of a wooden cross, because even our own body assumes as its natural position the latent and concealed outline of a cross. Since the head rises upwards, and the back takes a straight direction, and the shoulders project laterally, if you simply place a man with his arms and hands outstretched, you will make the general outline of a cross
+> …
+> Examples are not far to seek. Your victories you celebrate with religious ceremony as deities; and they are the more august in proportion to the joy they bring you. The frames on which you hang up your trophies must be crosses: these are, as it were, the very core of your pageants. Thus, in your victories, the religion of your camp makes even crosses objects of worship; your standards it adores, your standards are the sanction of its oaths; your standards it prefers before Jupiter himself. But all that parade of images, and that display of pure gold, are (as so many) necklaces of the crosses. In like manner also, in the banners and ensigns, which your soldiers guard with no less sacred care, you have the streamers (and) vestments of your crosses. You are ashamed, I suppose, to worship unadorned and simple crosses.
+
+> 译文：然而，真相是，你们的宗教全都是十字架，我将会证明这一点。你们确实不知道你们的神在起源上都是从这个被憎恨的十字架而来的。现在，每一个雕像，无论是用木头或石头雕刻的，还是用金属铸造的，或者用任何其他更华贵的材料制成的，都必须有技艺娴熟的双手参与其创造。那么，这个雕塑者，在他做任何其他步骤之前，就先想到了木制十字架的形状，因为即使我们自己的身体也自然地呈现出十字架的潜在和隐藏的轮廓。由于头部向上生长，背部呈直线形状，肩膀向两侧突出，如果你简单地让一个人伸展双臂和双手，你就会形成一个十字架的大致轮廓。
+> …
+> 不难找到这样的例子。你们以宗教仪式庆祝你们的胜利，并将胜利视为神祇；它们带给你们的喜悦越多，你们就越虔敬。你们悬挂奖杯的框架必须是十字架：这些可以说是你们庆典的核心。因此，当你们的胜利的时候，你们军营里盛行的宗教甚至使十字架成为崇拜的对象；你们崇拜自己的军旗，你们的旗帜成为誓言的神圣保障；你们的旗帜甚至被置于朱庇特本人之上。但所有这些偶像的游行，以及那纯黄金的展示，都是十字形的（许多）项链。同样，在你们的士兵以神圣不侵犯的态度守护的旗帜和徽章上，你们有十字形的飘带（和）服饰。我想，你们大概是羞于崇拜未经装饰过的简单十字架吧。
+
+在结尾处，特土良进一步指出在罗马军队中被崇拜的很多物体中，也存在十字形状的意象和造型。我们可以想象一下，T形十字架的形象显然不能被放置在这段讨论中，如果特土良辩护的十字架是T形状的，那么这些看起来自信且激昂的辩论就都垮掉了。他在之前的另一部作品《护教篇》（Apology for the Christians）第16章中有完全相同的一段论述。
+
+最后一个例子，是四世纪的神学家贵格利（Gregory of Nyssa），他扩展了保罗的《以弗所书》（Ephesians）第3章第18至19节中的一段祈祷文，即：
+
+> 18 I pray that you may have the power to comprehend, with all the saints, what is the breadth and length and height and depth, 
+> 19 and to know the love of Christ that surpasses knowledge, so that you may be filled with all the fullness of God.
+
+> 18 能够和众圣徒一同明白基督的爱是何等的长、阔、高、深，
+> 19 并知道这爱是超过人的知识所能测度的，为要使你们充满上帝一切的丰盛。
+
+贵格利在他的《宗教教育演讲》（Address on Religious Instruction）中提到了这段经文,并将其解释为保罗试图向以弗所的基督徒传达十字架图形的意义和广度。因此，他将十字架的四段与这些维度等同起来：上段是“高度”，下段是“深度”，水平两段是“宽度和长度”。他声称基督选择了这种形状的死刑工具，是因为它揭示了他与宇宙的真正关系。在十字架中，基督存在于空间的所有维度中，将它们维系在一起并在自身中协调它们，尽管正是十字架代表着他被处死的方式。
+
 从上述列举的各种基督教早期文献中，我们都可以看出，如果采用T形十字架的形状，将无法安置在这些话术中，神学家和护教士们的神学包装工程将无以为继。所以，钉死耶稣的那个十字架的形状，必须是十字形的。
 
 **小结**
