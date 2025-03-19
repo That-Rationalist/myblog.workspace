@@ -13,7 +13,7 @@ tags:
     "一神教",
     "摩西",
   ]
-title: "《一神教的代價》中文版"
+title: "《一神教的代價》繁體中文版"
 url: /articles/the-price-of-monotheism-chinese-edition
 date: 2024-04-22T17:41:40+12:00
 math: false

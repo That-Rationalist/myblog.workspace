@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 tags: ["基督教", "猶太教", "亞伯拉罕諸教", "歷史", "一神教"]
-title: "《上帝的早期历史——亚威与古以色列的其他神祇》中文版"
+title: "《上帝的早期曆史——亞威與古以色列的其他神祇》繁體中文版"
 url: /articles/early-history-of-god-chinese-edition
 date: 2024-06-06T15:54:53+12:00
 math: false
